@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpInfo xmlns="http://schemas.microsoft.com/powershell/help/2010/05">
-  <HelpContentURI>https://github.com/netsec4u/SqlServerAgentTools/blob/main/docs/SqlServerAgentTools.md</HelpContentURI>
+  <HelpContentURI>https://netsec4u.github.io/Help/SqlServerAgentTools/</HelpContentURI>
   <SupportedUICultures>
     <UICulture>
       <UICultureName>en-US</UICultureName>
